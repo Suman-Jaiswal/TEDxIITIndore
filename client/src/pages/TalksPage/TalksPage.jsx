@@ -2,7 +2,7 @@ import React, { useEffect, useState } from 'react'
 import { Grid } from "@mui/material";
 // import './TalksPage.css'
 import TalksCard from './../../components/TalksCard/TalksCard';
-import data from '../../data/data'
+import data from '../../data/data.json'
 
 export default function TalksPage() {
 
