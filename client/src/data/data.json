@@ -1,6 +1,5 @@
 {
-
-   "speakers": [
+    "speakers": [
         {
             "sno": "1",
             "name": "Dr. Prasun Chatterjee",
@@ -275,6 +274,29 @@
             "likes": "1.1K",
             "description": "Caste discrimination is a non-existent issue for almost all Indians. Same with gender discrimination and Terrorism. All we need to do is to proactively spread the message of Input Data - the source - and eliminate the intermediate processing errors. Remove whatever outliers or exceptions that exist. He is an MBA graduate from IIM Calcutta and engineering undergrad from IIT Guwahati - two of the most respected institutions of India. Professionally he is an expert in Analytics and Risk Management. In past 14 years of his career, he has undertaken several projects of social, national and global importance. He is also associated with IIT Kanpur in nurturing budding entrepreneurs and indigenous innovation from grass-root level. He is the CEO of Aarsh Management which was listed in 20 Most Promising Risk Management Solution Providers of the world by CIO Review. This talk was given at a TEDx event using the TED conference format but independently organized by a local community. Learn more at https://www.ted.com/tedx"
         }
+    ],
+
+
+    "carousel":[
+        {
+            "link":"/1.jpg",
+            "title":"hello",
+            "description":"hello"
+        },
+        {
+            "link":"/2.jpg",
+            "title":"hello",
+            "description":"hello"
+        }
+
+    ],
+
+    "gallery":[
+        {
+            "link":"/1.jpg"
+        },
+        {
+            "link":"/2.jpg"
+        }
     ]
-    
 }

@@ -6,6 +6,7 @@ import SpeakersPage from "./pages/SpeakersPage/SpeakersPage";
 import TalksPage from "./pages/TalksPage/TalksPage";
 import TeamPage from "./pages/TeamPage/TeamPage";
 import Footer from "./components/Footer/Footer";
+import Gallery from "./pages/GalleryPage/GalleryPage";
 
 function App() {
     return (
@@ -17,6 +18,7 @@ function App() {
                 <Route path='/speakers' element={<SpeakersPage />} />
                 <Route path='/talks' element={<TalksPage />} />
                 <Route path='/team' element={<TeamPage />} />
+                <Route path="/gallery" element={<Gallery/>}/>
                 
             </Routes>
             <Footer />
